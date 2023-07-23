@@ -81,8 +81,8 @@ body {
   text-decoration: none;
 }
 
-.address:hover,
-.address:focus {
+.address-page:hover,
+.address-page:focus {
   color: #404bbf;
 }
 
