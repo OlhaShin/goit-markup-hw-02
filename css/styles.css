@@ -60,10 +60,14 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-decoration: none;
 }
 
 .nav-header:hover,
 .nav-header:focus {
   color: #404bbf;
+}
+
+.link {
+  text-decoration: none;
+  font-style: normal;
 }
