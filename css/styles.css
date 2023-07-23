@@ -71,3 +71,17 @@ body {
   text-decoration: none;
   font-style: normal;
 }
+
+/*-- header address--*/
+.address {
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+
+.address:hover,
+.address:focus {
+  color: #404bbf;
+}
