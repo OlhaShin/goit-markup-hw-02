@@ -133,3 +133,15 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/*--main section3--*/
+.what-are-we-doing {
+}
+
+.work-picture {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
