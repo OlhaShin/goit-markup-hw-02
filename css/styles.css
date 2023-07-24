@@ -73,6 +73,7 @@ body {
 
 /*-- header address--*/
 .address {
+  font-style: normal;
 }
 
 .address-page {
