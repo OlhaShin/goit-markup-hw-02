@@ -193,3 +193,24 @@ body {
 .logo-studio-footer {
   color: #f4f4fd;
 }
+
+/*---portfolio---*/
+/*---header nav---*/
+
+.logo-portfolio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo-color-changed {
+  color: #2e2f42;
+}
